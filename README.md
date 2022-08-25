@@ -12,14 +12,13 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="600" height="420" />
+<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
 
 **Back-end**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%ffffff?style=flat-square&logo=javascript&logoColor=fff&labelColor=%23F7DF1C&color=%23FFCE5A&style=plastic)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&style=plastic)
 ![NodeJs](https://img.shields.io/badge/-NodeJS-007ACC?style=flat-square&logo=ts-node&logoColor=white&style=plastic)
-
 ![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp&style=plastic)
 ![dotnet](https://img.shields.io/badge/-Asp.net-1d72b1?style=flat-square&logo=dotnet&style=plastic)
 
@@ -37,15 +36,12 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&style=plastic)
 ![Scss](https://img.shields.io/badge/-Scss-%231572B6?style=flat-square&logo=sass&style=plastic)
 ![Styled-components](https://img.shields.io/badge/-StyledComponents-%231572B6?style=flat-square&logo=styledcomponents&style=plastic)
-
 ![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=React&logoColor=ffffff&style=plastic)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=whiter&style=plastic)
-
 ![Redux](https://img.shields.io/badge/-Redux-007ACC?style=flat-square&logo=redux&logoColor=white&style=plastic)
 ![Redux-toolkit](https://img.shields.io/badge/-Redux%20toolkit-007ACC?style=flat-square&logo=redux&logoColor=white&style=plastic)
 ![Redux-saga](https://img.shields.io/badge/-Redux%20Saga-007ACC?style=flat-square&logo=reduxsaga&logoColor=white&style=plastic)
 ![React-Router](https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react-router&logoColor=fff&style=plastic)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%ffffff?style=flat-square&logo=javascript&logoColor=fff&labelColor=%23F7DF1C&color=%23FFCE5A&style=plastic)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&style=plastic)
 
@@ -54,19 +50,15 @@
 ![Figma](https://img.shields.io/badge/-Figma-0000?style=flat-square&logo=figma&logoColor=white&style=plastic)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-0000?style=flat-square&logo=adobephotoshop&logoColor=white&style=plastic)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-0000?style=flat-square&logo=AdobeIllustrator&logoColor=white&style=plastic)
-
-
 ![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat-square&logo=docker&logoColor=white&style=plastic)
 ![WebPack](https://img.shields.io/badge/-WebPack-007ACC?style=flat-square&logo=WebPack&logoColor=white&style=plastic)
 ![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=visualstudiocode&style=plastic)
 ![Postman](https://img.shields.io/badge/Postman-007ACC?style=flat-square&logo=postman&style=plastic)
-
 ![MacOs](https://img.shields.io/badge/MacOs-black?style=flat-square&logo=apple&style=plastic)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&style=plastic)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&style=plastic)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&style=plastic)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-007ACC?style=flat-square&logo=bitbucket&style=plastic)
-
 ![Jira](https://img.shields.io/badge/-Jira-007ACC?style=flat-square&logo=jira&style=plastic)
 ![Confluence](https://img.shields.io/badge/-Confluence-007ACC?style=flat-square&logo=confluence&style=plastic)
 
