@@ -48,7 +48,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat-square&logo=docker&logoColor=white)
 ![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=visualstudio)
 ![Postman](https://img.shields.io/badge/Postman-007ACC?style=flat-square&logo=postman)
-
 ![MacOs](https://img.shields.io/badge/MacOs-black?style=flat-square&logo=apple)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
