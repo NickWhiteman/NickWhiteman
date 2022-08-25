@@ -28,7 +28,7 @@
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql&logoColor=ffffff&style=plastic)
 ![MySql](https://img.shields.io/badge/-MySql-%232c3e50?style=flat-square&logo=mysql&logoColor=ffffff&style=plastic)
-![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQ%20Server-%232c3e50?style=flat-square&logo=MicrosoftSQLServer&logoColor=ffffff&style=plastic)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%232c3e50?style=flat-square&logo=MicrosoftSQLServer&logoColor=ffffff&style=plastic)
 
 **Front-end**
 
