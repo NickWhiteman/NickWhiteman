@@ -29,6 +29,7 @@
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql&logoColor=ffffff&style=plastic)
 ![MySql](https://img.shields.io/badge/-MySql-%232c3e50?style=flat-square&logo=mysql&logoColor=ffffff&style=plastic)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQ%20Server-%232c3e50?style=flat-square&logo=MicrosoftSQLServer&logoColor=ffffff&style=plastic)
 
 **Front-end**
 
@@ -50,13 +51,25 @@
 
 **Tools**
 
+![Figma](https://img.shields.io/badge/-Figma-0000?style=flat-square&logo=figma&logoColor=white&style=plastic)
+![Photoshop](https://img.shields.io/badge/-Photoshop-0000?style=flat-square&logo=adobephotoshop&logoColor=white&style=plastic)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-0000?style=flat-square&logo=AdobeIllustrator&logoColor=white&style=plastic)
+
+
 ![Docker](https://img.shields.io/badge/-Docker-007ACC?style=flat-square&logo=docker&logoColor=white&style=plastic)
+![WebPack](https://img.shields.io/badge/-WebPack-007ACC?style=flat-square&logo=WebPack&logoColor=white&style=plastic)
 ![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat-square&logo=visualstudiocode&style=plastic)
 ![Postman](https://img.shields.io/badge/Postman-007ACC?style=flat-square&logo=postman&style=plastic)
+
 ![MacOs](https://img.shields.io/badge/MacOs-black?style=flat-square&logo=apple&style=plastic)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&style=plastic)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&style=plastic)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&style=plastic)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-007ACC?style=flat-square&logo=bitbucket&style=plastic)
+
+![Jira](https://img.shields.io/badge/-Jira-007ACC?style=flat-square&logo=jira&style=plastic)
+![Confluence](https://img.shields.io/badge/-Confluence-007ACC?style=flat-square&logo=confluence&style=plastic)
+
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
