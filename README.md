@@ -18,7 +18,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%ffffff?style=flat-square&logo=javascript&logoColor=fff&labelColor=%23F7DF1C&color=%23FFCE5A&style=plastic)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&style=plastic)
-![NodeJs](https://img.shields.io/badge/-NodeJS-007ACC?style=flat-square&logo=typescript&logoColor=white&style=plastic)
+![NodeJs](https://img.shields.io/badge/-NodeJS-007ACC?style=flat-square&logo=ts-node&logoColor=white&style=plastic)
 
 ![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp&style=plastic)
 ![dotnet](https://img.shields.io/badge/-Asp.net-1d72b1?style=flat-square&logo=dotnet&style=plastic)
