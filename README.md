@@ -12,11 +12,7 @@
 
 ### I am a Fullstack Developer, 
 
-I love to develop tools to optimize the development process. 
-
-Also my passion is the development of tools for 
-
-stock trading CEX, DEX, Forex
+I love to develop tools to optimize the development process. Also my passion is the development of tools for stock trading CEX, DEX, Forex
 
 ### ⚙️ Stack: 
 
